@@ -12,7 +12,7 @@ echo '-------------------------------FINISHED-------------------------------'
 echo 'Add any NPM packages you would like. Press ENTER after each one. Once you are finished or do not want to add anything, leave the field blank.'
 echo
 read package
-while ![ $package = "" ]
+while [ "$package" != "" ]
 do
     npm install -g $package
     echo 'Enter another package, or leave the field blank.' 
