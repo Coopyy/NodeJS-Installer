@@ -7,6 +7,7 @@ sudo apt-get install python-software-properties
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 apt-get install nodejs
 npm install -g pm2
+clear
 echo '-------------------------------FINISHED-------------------------------'
 echo 'Add any NPM packages you would like. Press ENTER after each one. Once you are finished or do not want to add anything, leave the field blank.'
 echo
