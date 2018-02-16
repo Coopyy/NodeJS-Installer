@@ -15,7 +15,7 @@ read package
 while ![ $package = "" ]
 do
     npm install -g $package
-    echo 'Enter another package, or leave the field blank.' \
+    echo 'Enter another package, or leave the field blank.' 
     echo
     read package
 done
