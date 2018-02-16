@@ -15,7 +15,5 @@ do
     read package
 done
 
-        
-
 else echo Please run this as Root user.
 fi
