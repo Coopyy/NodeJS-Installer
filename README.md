@@ -1,6 +1,6 @@
 # NodeJS-Installer
 
-Downloads latest stable NodeJS(8) and NPM(5) Versions! 
+Downloads latest stable NodeJS(8) and NPM(5) Versions for Ubuntu! 
 
 Quickly download and run using the following command in your Linux Terminal:
 
